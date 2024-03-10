@@ -1,0 +1,1105 @@
+section.modulos {
+  background-color: #EEE;
+  border-radius: 33px 33px 0 0;
+  -webkit-border-radius: 33px 33px 0 0;
+  -moz-border-radius: 33px 33px 0 0;
+  -ms-border-radius: 33px 33px 0 0;
+  -o-border-radius: 33px 33px 0 0;
+  min-height: 1223px;
+  height: auto !important;
+  padding-top: 5%;
+}
+
+section.modulos .container .row .control.d-flex .checkRed,
+section.modulos .container .row .control.d-flex .checkRedMini {
+  border: 3px solid #E7333F;
+  border-top: none;
+  border-right: none;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+}
+
+section.modulos .container .row .control.d-flex .checkRed {
+  width: 20px;
+  height: 12px;
+}
+
+section.modulos .container .row .control.d-flex .checkRedMini {
+  width: 11px;
+  height: 6px;
+}
+
+section.modulos .container .row .control.d-flex p.h2.font-weight-bold.m-0 {
+  font-family: "TitilliumWeb-Bold";
+}
+
+section.modulos .container .row ul.modulosInt li,
+section.modulos .container .row#compra .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+section.one .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h2.w-90,
+p.h6.w-90 {
+  width: 90% !important;
+}
+
+section.modulos .container .row ul.modulosInt,
+section.modulos .container .row ul.modulosInt2,
+section.modulos .container .row.mt-5.pt-5 p.h6,
+section.one .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6 {
+  font-size: 17px;
+}
+
+section.modulos .container .row.mt-5.pt-5 .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6 {
+  margin-left: 5%;
+}
+
+section.modulos .container .row.title p.h1,
+section.one .container .row.title p.h1,
+section.modulos .container .row p.h2 {
+  color: #1A1A3A;
+}
+
+section.modulos .container .row ul.modulosInt,
+section.modulos .container .row ul.modulosInt2,
+section.modulos .container .row p.h6 {
+  color: #1F2537;
+}
+
+.container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+  color: #FFF;
+}
+
+.container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h1 {
+  font-size: 56px;
+  font-family: "TitilliumWeb-Regular";
+}
+
+section.one {
+  padding: 5% 0;
+}
+
+section.modulos .container .row.title p.h1,
+section.one .container .row.title p.h1 {
+  font-size: 56px;
+  font-family: "TitilliumWeb-Bold";
+}
+
+section.one .container .row.mobile {
+  display: none !important;
+}
+
+section.one .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+  margin-bottom: 9%;
+}
+
+section.one .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h2,
+section.one .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6 {
+  color: #00183B;
+  text-align: center;
+}
+
+section.one .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h2 {
+  font-family: "Raleway-Bold";
+  font-size: 29px;
+  margin-top: 7%;
+}
+
+section.modulos .container .row ul.modulosInt,
+section.modulos .container .row ul.modulosInt2 {
+  list-style: none;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.displayFlex {
+  display: flex;
+}
+
+.displayNone {
+  display: none;
+}
+
+.active,
+section.modulos .container .row ul.modulosInt li:hover,
+section.modulos .container .row ul.modulosInt2 li:hover {
+  font-weight: bold;
+  background-color: #1C1C3A;
+  color: #FFF;
+}
+
+section.modulos .container .row ul.modulosInt li,
+section.modulos .container .row ul.modulosInt2 li {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 51px;
+  border: 1px solid #c7c7c7;
+  border-radius: 6px;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+
+section.modulos .container .row p.h6 {
+  line-height: 26px;
+}
+
+section.modulos .container .row.mt-5.pt-5 {
+  justify-content: flex-end;
+}
+
+section.modulos .container .row ul.modulosInt li {
+  max-width: 110px;
+}
+
+section.modulos .container .row ul.modulosInt2 li {
+  max-width: 180px;
+  width: 95% !important;
+}
+
+section.modulos .container .row ul.modulosInt li.crm {
+  max-width: 90px !important;
+}
+
+section.modulos .container .row ul.modulosInt li.portalCliente {
+  max-width: 140px !important;
+}
+
+section.modulos .container .row ul.modulosInt2 li.dashboard,
+section.modulos .container .row ul.modulosInt2 li.appMobile {
+  max-width: 120px !important;
+}
+
+section.modulos .container .row ul.modulosInt2 li.auditoriaMovimentos {
+  max-width: 200px !important;
+}
+
+section.modulos .container .row ul.modulosInt2 li.mais {
+  max-width: 60px !important;
+}
+
+section.modulos .container .row ul.modulosInt {
+  justify-content: space-between;
+}
+
+section.modulos .container .row ul.modulosInt2 {
+  justify-content: space-around;
+  max-width: 1000px !important;
+}
+
+section.modulos .container .row#dashboard .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6 {
+  width: 89% !important;
+}
+
+section.modulos .container .row#compra .col-sm-8.col-md-8.col-lg-8.col-xl-8 .controlCompras .control.d-flex p.h2 {
+  font-family: 'TitilliumWeb-Bold';
+}
+
+section.appMobile {
+  padding: 4% 0;
+  background-color: #E53537;
+}
+
+section.appMobile .celular {
+  object-fit: contain;
+  position: absolute;
+  top: -28.75%;
+  right: -4%;
+  bottom: 0;
+}
+
+section.appMobile .container .row,
+section.appMobile .container {
+  height: inherit;
+}
+
+section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold {
+  font-family: 'TitilliumWeb-Bold';
+  font-weight: 900 !important;
+  font-size: 56px;
+}
+
+section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+  color: #FFF;
+  font-size: 22px;
+  line-height: 1.5;
+  position: relative;
+  top: 20px;
+  width: 80%;
+}
+
+section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start {
+  color: #FFF;
+  padding: 3% 5%;
+  left: -4%;
+  max-width: 680px;
+}
+
+section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start p.h5 {
+  font-size: 25px;
+}
+
+section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start ul {
+  list-style: none;
+}
+
+section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start ul li {
+  font-size: 20px;
+}
+
+section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start ul li .checkBlue {
+  border: 3px solid #00183b;
+  border-top: none;
+  border-right: none;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  width: 10px;
+  height: 6px;
+}
+
+section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70 {
+  font-size: 21px;
+}
+
+section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+  padding-left: 6%;
+}
+
+a.btnRed,
+section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center a.btnRed {
+  background-color: #E53537 !important;
+  border: 0 !important;
+  height: 50px !important;
+  font-size: 22px !important;
+  width: 30%;
+  border-radius: 8px !important;
+}
+
+section.servicosVinculados {
+  background-color: #1C1C3A;
+  z-index: 1;
+}
+
+section.servicosVinculados #circle {
+  position: absolute;
+  right: -13%;
+  top: -10%;
+}
+
+section.servicosVinculados .container-fluid {
+  max-width: 1320px;
+}
+
+section.servicosVinculados .container-fluid .row.title p.h1 {
+  padding-top: 8%;
+  color: #FFF;
+  padding-bottom: 5%;
+}
+
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.whitebackground {
+  color: #1C1C3A;
+  background-color: #FFF;
+}
+
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.redbackground {
+  background-color: #E53537;
+  color: #FFF;
+}
+
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.whitebackground .line {
+  border-color: #E53537 !important;
+}
+
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.redbackground .line {
+  border-color: #FFF !important;
+}
+
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.whitebackground .line,
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.redbackground .line {
+  border-bottom: 1px solid;
+  width: 45%;
+  position: relative;
+  left: -11%;
+  margin: 8% 0;
+}
+
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h4 {
+  font-size: 26px;
+}
+
+section.erpOniun .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h6,
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.txt {
+  font-size: 17px;
+}
+
+section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+  max-width: 440px !important;
+  flex: 0 0 34% !important;
+  padding: 5% 3% 4% 3% !important;
+}
+
+section.erpOniun p.h6.pl-3.m-0 {
+  width: 50% !important;
+}
+
+section.erpOniun {
+  background: url('../images/servicos_software/BANNER.webp') no-repeat center;
+  object-fit: cover;
+  z-index: 2;
+  height: 271px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section.erpOniun .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h1 {
+  font-size: 30px;
+}
+
+section.erpOniun .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h1,
+section.erpOniun .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h6 {
+  color: #FFF;
+}
+
+section.erpOniun .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h6 {
+  border-width: 1px 1px 1px 0px;
+  border-radius: 0px 7px 7px 0px;
+  padding: 2.75% 0;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.modulosIntMobile {
+  display: none !important;
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.whitebackground .line,
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.redbackground .line,
+  .modulosInt,
+  .modulosInt2,
+  .negativeMobile,
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.img {
+    display: none !important;
+  }
+
+  a.btnRed {
+    position: relative;
+    top: 100px;
+    width: 70% !important;
+    left: 16%;
+  }
+
+  a.btn.btn-primary.btnRed.d-flex.justify-content-center.align-items-center.mt-5.button2 {
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+
+  section.servicosVinculados .container-fluid {
+    max-width: none !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  section.servicosVinculados .container-fluid .row.w-100 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90% !important;
+  }
+
+  section.servicosVinculados .container-fluid .row.title p.h1 {
+    padding-top: 25%;
+  }
+
+  .modulosIntMobile {
+    display: flex !important;
+  }
+
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h1 {
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+  }
+
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    position: relative;
+    top: 130px;
+    text-align: center;
+    width: 100%;
+  }
+
+  section.one .container .row.title .h1 {
+    width: 100% !important;
+    font-size: 47px !important;
+    margin-top: 10%;
+  }
+
+  section.one .container .row.desktop {
+    display: none !important;
+  }
+
+  section.one .container .row.mobile {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 5px;
+  }
+
+  #carouselMobile .carousel-inner .carousel-item .card {
+    flex-direction: column !important;
+    border: 0;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+}
+
+  section.one {
+    height: 700px;
+  }
+
+  #carouselMobile,
+  #carouselMobile .carousel-inner .carousel-item,
+  #carouselMobile .carousel-inner .carousel-item .card .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+    max-width: 311px;
+  }
+
+  #carouselMobile .carousel-inner .carousel-item .card .col-sm-12.col-md-12.col-lg-12.col-xl-12 p.h2,
+  #carouselMobile .carousel-inner .carousel-item .card .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h2 {
+    font-size: 23px;
+    margin: 3% 0;
+    width: 100% !important;
+    color: #1A1A3A;
+  }
+
+  #carouselMobile .carousel-inner .carousel-item .card .col-sm-12.col-md-12.col-lg-12.col-xl-12 p.h2 {
+    padding: 0 12% !important;
+  }
+
+  #carouselMobile .carousel-inner .carousel-item .card .col-sm-12.col-md-12.col-lg-12.col-xl-12 p.h6,
+  #carouselMobile .carousel-inner .carousel-item .card .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    text-align: center;
+    width: 100% !important;
+    color: #1A1A3A;
+  }
+
+  #xmls {
+    padding: 0 8%;
+  }
+
+  #carouselMobile .carousel-control-next {
+    right: -8%;
+  }
+
+  #carouselMobile .carousel-control-prev {
+    left: -8%;
+  }
+
+  section.modulos .container .row ul.modulosIntMobile {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0 15px !important;
+  }
+
+  section.modulos .container .row ul.modulosIntMobile li {
+    max-width: 150px !important;
+    margin: 0 5px;
+    padding: 0 5px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+  }
+
+  section.modulos .container .row ul.modulosIntMobile li.auditoriaMovimentos {
+    max-width: 180px !important;
+  }
+
+  section.appMobile {
+    border-radius: 33px 33px 0 0;
+    -webkit-border-radius: 33px 33px 0 0;
+    -moz-border-radius: 33px 33px 0 0;
+    -ms-border-radius: 33px 33px 0 0;
+    -o-border-radius: 33px 33px 0 0;
+    padding: 9% 0;
+    bottom: 25px;
+  }
+
+  section.modulos {
+    padding-top: 11%;
+  }
+
+  section.modulos .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.flex-column.align-items-start.justify-content-start,
+  section.modulos .container {
+    padding: 0;
+  }
+
+  section.modulos .container .row.mt-5.pt-5 {
+    padding-bottom: 25px;
+  }
+
+  section.modulos .container .row.title p.h1 {
+    font-size: 45px;
+  }
+
+  section.modulos .container .row#compra .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#estoque .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#vendas .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#crm .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#portalCliente .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#financeiro .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#contabilidade .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#fiscal .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#patrimonial .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#producao .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#controleQualidade .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#manutencaoAtivos .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#dashboard .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#auditoriaMovimentos .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#appMobile .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#mais .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6,
+  section.modulos .container .row#compra {
+    width: 100% !important;
+  }
+
+  section.modulos .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.flex-column.align-items-start.justify-content-start {
+    margin: 0 15px;
+    border-bottom: 1px solid #B7B7B7;
+    padding-bottom: 6%;
+  }
+
+  section.modulos .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+    padding-top: 10%;
+  }
+
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold {
+    font-size: 45px;
+  }
+
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold,
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    width: 100%;
+    text-align: center;
+  }
+
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h6,
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start ul li {
+    font-size: 16px;
+  }
+
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start {
+    flex-direction: column;
+    left: 0;
+    width: 95% !important;
+  }
+
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start p.h5 {
+    width: 100% !important;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 5%;
+  }
+
+  section.servicosVinculados #circle,
+  section.appMobile .celular,
+  section.personalize_S .container-fluid.d-flex.justify-content-center.p-0 .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6.p-0 {
+    display: none !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+    padding: 7% 10px 15% !important;
+    align-items: center !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold.w-65 {
+    width: 100% !important;
+    font-size: 29px;
+    text-align: center;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70 {
+    width: 100% !important;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center a.btnRed {
+    width: 58%;
+    font-size: 18px;
+  }
+
+  section.servicosVinculados {
+    top: 30px;
+    padding-bottom: 18% !important;
+  }
+
+  section.erpOniun {
+    border-radius: 33px 33px 0 0;
+    -webkit-border-radius: 33px 33px 0 0;
+    -moz-border-radius: 33px 33px 0 0;
+    -ms-border-radius: 33px 33px 0 0;
+    -o-border-radius: 33px 33px 0 0;
+  }
+
+  section.servicosVinculados.position-relative.pb-3 .container-fluid.p-0 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10% 6% !important;
+  }
+
+  section.servicosVinculados.position-relative.pb-3 .container-fluid.p-0 .row.w-100 {
+    flex-direction: column;
+  }
+
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10% 4% !important;
+  }
+
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.whitebackground p.h4 {
+    border-bottom: 1px solid #E53537;
+    padding-bottom: 6%;
+    width: 45%;
+    text-align: center;
+  }
+
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.redbackground p.h4 {
+    border-bottom: 1px solid #FFF;
+    padding-bottom: 6%;
+    width: 50%;
+    text-align: center;
+  }
+
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.txt {
+    text-align: center;
+    padding-top: 8%;
+    font-size: 16px;
+  }
+
+  section.servicosVinculados .container-fluid .row.title p.h1 {
+    font-size: 32px;
+    padding-bottom: 10%;
+  }
+
+  section.erpOniun {
+    height: 506px;
+    background: url('../images/servicos_software/erpOniun.webp') no-repeat center;
+    background-size: cover;
+  }
+
+  section.erpOniun .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h1 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 10%;
+  }
+
+  section.erpOniun .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 a.w-100 .call.w-100.d-flex.justify-content-start.align-items-center,
+  section.erpOniun .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 a.w-100 .whats.w-100.d-flex.justify-content-start.align-items-center {
+    justify-content: center !important;
+  }
+
+  section.modulos .container .row.mt-5.pt-5 .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6,
+  section.modulos .container .row#compra .col-sm-8.col-md-8.col-lg-8.col-xl-8 .controlCompras .control.d-flex p.h2 {
+    width: 100% !important;
+  }
+
+  section.modulos .container .row#compra .col-sm-8.col-md-8.col-lg-8.col-xl-8 .controlCompras .control.d-flex p.h2 {
+    font-size: 28px !important;
+  }
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2600px) {
+
+  section.erpOniun {
+    background: url('../images/servicos_software/BANNER@2x.webp') no-repeat center;
+  }
+
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    width: 62%;
+  }
+
+  section.appMobile .celular {
+    top: -34.75%;
+    width: 39%;
+    right: 0;
+  }
+
+  section.erpOniun.position-relative .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 50%;
+    padding-left: 5%;
+  }
+
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start {
+    left: -5%;
+    max-width: 800px !important;
+  }
+
+  section.personalize_S .container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6.p-0 img {
+    width: 100%;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold.w-65 {
+    width: 50% !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70 {
+    width: 53% !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center a.btnRed {
+    width: 25% !important;
+  }
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1700px) {
+
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start {
+    max-width: 800px !important;
+    padding: 3% 4%;
+    left: 0;
+  }
+
+  section.appMobile .celular {
+    top: -9%;
+    right: -8%;
+  }
+
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start p.h5 {
+    width: 25% !important;
+  }
+
+  section.personalize_S .container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6.p-0 img {
+    width: 100%;
+    height: 100%;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold.w-65 {
+    width: 75% !important;
+    font-size: 2rem;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70 {
+    font-size: 16px !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center a.btnRed {
+    width: 40% !important;
+  }
+
+  section.servicosVinculados .container-fluid {
+    max-width: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  section.servicosVinculados .container-fluid .row.title {
+    padding: 5% 0;
+  }
+
+  section.servicosVinculados .container-fluid .row.w-100 {
+    justify-content: center;
+  }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1439px) {
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.img {
+    top: 8vh;
+  }
+
+  section.servicosVinculados #circle {
+    right: -31%;
+    top: -8%;
+    width: 60%;
+  }
+
+  section.servicosVinculados .container-fluid {
+    max-width: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  section.servicosVinculados .container-fluid .row.w-100 {
+    justify-content: center;
+  }
+
+  section.servicosVinculados .container-fluid .row.title p.h1 {
+    padding-top: 25%;
+    padding-bottom: 9%;
+  }
+
+  section.erpOniun.position-relative .container .row {
+    position: relative;
+    left: 5.5%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+    max-width: 70% !important;
+    flex: 0 0 70% !important;
+  }
+
+  header .container-fluid.p-0 .container.h-100 .row.h-100,
+  header .container-fluid.p-0 .container.h-100 {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0;
+  }
+
+  header .container-fluid.p-0,
+  header .container-fluid.p-0 .container.h-100,
+  header .container-fluid.p-0 .container.h-100 .row.h-100 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  #carouselMobile .carousel-inner .carousel-item .card {
+    flex-direction: row !important;
+    border: 0;
+  }
+
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70,
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h1 {
+    width: 100% !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70,
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    font-size: 18px;
+  }
+
+  section.one .container .row.title .h1 {
+    font-size: 56px !important;
+  }
+
+  section.one .container .row {
+    justify-content: space-around;
+    padding: 0 15%;
+  }
+
+  section.erpOniun.position-relative .container .row,
+  section.modulos .container .row.mt-5.pt-5 {
+    justify-content: center !important;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section.modulos .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.flex-column.align-items-start.justify-content-start {
+    max-width: 60%;
+  }
+
+  section.personalize_S .container-fluid .row {
+    justify-content: center !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+    max-width: 58%;
+    flex: 0 0 58%;
+  }
+
+  section.servicosVinculados {
+    top: 29px;
+  }
+
+  section.servicosVinculados .container-fluid {
+    max-width: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.whitebackground .line,
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.redbackground .line {
+    display: none;
+  }
+
+  section.servicosVinculados .container-fluid .row.w-100 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section.servicosVinculados .container-fluid .row.title {
+    padding-top: 15%;
+  }
+
+  section.servicosVinculados .container-fluid .row.title p.h1 {
+    padding-bottom: 15%;
+    position: relative;
+    bottom: 15px;
+  }
+
+  main section.erpOniun.position-relative div.container div.row div.col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex {
+    padding: 0 !important;
+    max-width: 70% !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+    padding: 7% 10px 9% !important;
+  }
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 415px) {
+
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h1 {
+    font-size: 45px;
+  }
+
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    font-size: 14px;
+  }
+
+  section.modulos .container .row {
+    margin: 0 12px !important;
+  }
+
+  section.modulos .container .row ul.modulosIntMobile {
+    padding: 0 !important;
+  }
+
+  section.erpOniun p.h6.pl-3.m-0,
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center a.btnRed {
+    width: 65% !important;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold.w-65,
+  section.modulos .container .row#compra .col-sm-8.col-md-8.col-lg-8.col-xl-8 .controlCompras .control.d-flex p.h2,
+  section.erpOniun .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h1 {
+    font-size: 25px !important;
+  }
+
+  section.modulos .container .row.mt-5.pt-5 .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6 {
+    margin-left: 0 !important;
+  }
+
+  section.modulos .container .row.mt-5.pt-5 p.h6 {
+    font-size: 16px;
+    width: 100% !important;
+  }
+
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold {
+    font-size: 40px;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70 {
+    font-size: 15px;
+  }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h1 {
+    font-size: 32px;
+  }
+
+  a.btnRed {
+    font-size: 18px !important;
+  }
+
+  section.servicosVinculados .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.txt,
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h6,
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start ul li,
+  .container-fluid.servicosSoftware .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    font-size: 13px;
+  }
+
+  section.modulos .container .row.title p.h1,
+  section.one .container .row.title .h1 {
+    font-size: 40px !important;
+  }
+
+  section.one .container .row.title.justify-content-center.align-items-center.mb-5.pb-5 {
+    padding-bottom: 1rem !important;
+  }
+
+  section.modulos .container .row.title.mb-5 {
+    margin-bottom: 1rem !important;
+  }
+
+  section.modulos .container .row.mt-5.pt-5 .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6 {
+    margin-left: 0;
+  }
+
+  section.modulos .container .row#compra .col-sm-8.col-md-8.col-lg-8.col-xl-8 .controlCompras .control.d-flex p.h2 {
+    font-size: 23px !important;
+  }
+
+  section.appMobile .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold {
+    font-size: 35px;
+  }
+
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start p.h5 {
+    font-size: 18px;
+  }
+
+  section.appMobile .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-start ul {
+    padding-left: 5px;
+  }
+
+  section.erpOniun .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h1,
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h1.font-weight-bold.w-65 {
+    font-size: 22px;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h4.mt-4.w-70 {
+    font-size: 14px;
+  }
+
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center a.btnRed {
+    font-size: 16px;
+  }
+
+  section.erpOniun p.h6.pl-3.m-0,
+  section.personalize_S .container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center a.btnRed {
+    width: 77% !important;
+  }
+
+  section.erpOniun .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 {
+    padding: 0;
+  }
+
+}

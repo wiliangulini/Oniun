@@ -1,0 +1,121 @@
+footer {
+  background: url('../images/home/Retângulo41.svg') no-repeat center;
+  object-fit: cover;
+  height: 444px;
+  background-color: #1C1C3A;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer ul li a:hover {
+  color: #FFF;
+  text-decoration: none !important;
+}
+
+footer ul li a {
+  color: #FFF;
+  text-decoration: none !important;
+}
+
+footer .container.h-100 .row.pb-5.pt-5.mt-2 .p-0.col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-items-start.justify-content-center .controlRedesSociais a img {
+  width: 19.5px;
+  height: 19.5px;
+}
+
+footer .container.h-100 .row.pb-5.pt-5.mt-2 .p-0.col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-items-start.justify-content-center .controlRedesSociais a img.face,
+footer .container.h-100 .row.pb-5.pt-5.mt-2 .p-0.col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-items-start.justify-content-center .controlRedesSociais a img.linkedin {
+  width: 24px;
+  height: 24px;
+}
+
+footer .container.h-100 .row.pb-5.pt-5.mt-2 {
+  border-bottom: 1px solid #263463;
+}
+
+footer .container .row.socialMobile {
+  display: none !important;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+  footer .container .row.socialMobile {
+    display: flex !important;
+  }
+
+  footer {
+    height: 598px;
+  }
+
+  footer.container-fluid .container .row.pb-5.pt-5.mt-2 {
+    padding: 2rem 0 !important;
+    border: 0;
+  }
+
+  footer.container-fluid .container .row.pb-5.pt-5.mt-2 .p-0.col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-items-start.justify-content-center {
+    display: none !important;
+  }
+
+  footer.container-fluid .container .row.mt-5 {
+    margin-top: 1rem !important;
+  }
+
+  footer.container-fluid .container .row.mt-5 .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-items-start.justify-content-start {
+    margin-bottom: 2rem !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+    line-height: 2;
+  }
+
+  footer.container-fluid .container .row.mt-5 .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-items-start.justify-content-start ul.d-flex.flex-column.justify-content-around.align-items-start.h-100 {
+    line-height: 2;
+  }
+
+  footer.container-fluid .container .row.mt-5 .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-items-start.justify-content-start ul.d-flex.flex-column.justify-content-around.align-items-start.h-100 li a img {
+    margin-right: 0.75rem !important;
+  }
+
+
+  footer .container.h-100 .row.mt-5.socialMobile ul li {
+    margin: 0 5px;
+  }
+  footer .container.h-100 .row.mt-5.socialMobile ul li a img {
+    width: 19.5px;
+    height: 19.5px;
+  }
+
+  footer .container.h-100 .row.mt-5.socialMobile ul li a img.face,
+  footer .container.h-100 .row.mt-5.socialMobile ul li a img.linkedin {
+    width: 24px;
+    height: 24px;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+  footer {
+    height: auto !important;
+    padding: 5% 0;
+  }
+
+  footer.container-fluid .container .row.mt-5 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  footer.container-fluid .container .row.pb-5.pt-5.mt-2 {
+    justify-content: center;
+  }
+
+  footer .container .row.socialMobile {
+    margin: 0 !important;
+    padding: 0 !important;
+    position: relative;
+    right: 20px;
+  }
+
+}

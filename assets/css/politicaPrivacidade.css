@@ -1,0 +1,107 @@
+section.backgroundGrey {
+  position: absolute;
+  width: 100%;
+  margin-top: 90px;
+  height: 491px;
+  background-color: #F6F6F6 !important;
+}
+
+header .container-fluid.p-0 {
+  background: #1C1C3A !important;
+}
+
+section.position-relative {
+  padding-top: 210px;
+}
+
+section .container-fluid .row.title h1 {
+  font-size: 56px;
+  color: #1A1A3A;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+section .container-fluid .row.justify-content-center .col-sm-8.col-md-8.col-lg-8.col-xl-8.card {
+  padding: 4% 7%;
+  border: 0;
+  background-color: #FFF;
+  border-radius: 33px 0 0 0;
+  -webkit-border-radius: 33px 0 0 0;
+  -moz-border-radius: 33px 0 0 0;
+  -ms-border-radius: 33px 0 0 0;
+  -o-border-radius: 33px 0 0 0;
+}
+
+section .container-fluid .row.title .col-sm-9.col-md-9.col-lg-9.col-xl-9 {
+  left: 10%;
+}
+
+section .container-fluid .row.justify-content-center .col-sm-8.col-md-8.col-lg-8.col-xl-8.card p.h6.font-weight-bold {
+  margin: 3% 0;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1023px) {
+
+  section.backgroundGrey {
+    height: 250px;
+  }
+
+  section.position-relative {
+    padding-top: 240px;
+  }
+
+  section.position-relative .container-fluid .container {
+    align-items: center !important;
+  }
+
+  section .container-fluid .row.title h1 {
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+  }
+
+  section .container-fluid .row.title .col-sm-9.col-md-9.col-lg-9.col-xl-9 {
+    bottom: 25px;
+    padding: 0;
+  }
+
+  section .container-fluid .row.title .col-sm-9.col-md-9.col-lg-9.col-xl-9,
+  section .container-fluid .row.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2600px) {
+
+  section .container-fluid .row.title .col-sm-9.col-md-9.col-lg-9.col-xl-9 {
+    left: 15%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+  section .container-fluid .row.title .col-sm-9.col-md-9.col-lg-9.col-xl-9 {
+    max-width: 100% !important;
+    left: 0 !important;
+  }
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 410px) {
+
+  section .container-fluid .row.title h1 {
+    font-size: 35px;
+  }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+  section .container-fluid .row.title h1 {
+    font-size: 30px;
+  }
+
+}

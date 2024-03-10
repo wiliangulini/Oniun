@@ -1,0 +1,696 @@
+section.one .container-fluid .row .divRed .h2,
+.cardRed,
+.divRed,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .cardRed p,
+.container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1,
+.container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6,
+section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0,
+section.four .container .row {
+  color: #FFF !important;
+}
+
+p.h6,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h6,
+.container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+  font-size: 17px;
+}
+
+a.btnRed {
+  background-color: #E53537 !important;
+  border: 0 !important;
+  height: 50px !important;
+  font-size: 22px !important;
+  width: 30%;
+  border-radius: 8px !important;
+}
+
+section.one,
+section.one .container-fluid,
+section.one .container-fluid .row,
+section.one .container-fluid .row .carouselControl,
+section.one .container-fluid .row #carouselExampleControls,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard {
+  height: 524px;
+}
+
+section.one .container-fluid .row .divRed .h2 {
+  font-size: 32px;
+}
+
+section.one .container-fluid .row.w-100 .carouselControl button.carousel-control-next {
+  position: absolute;
+  top: 75%;
+  right: 15%;
+  opacity: 1;
+}
+
+section.one .container-fluid .row.w-100 .carouselControl button.carousel-control-prev {
+  display: none;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h6,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h2 {
+  color: #1A1A3A;
+}
+
+.container-fluid.servicosContabilidade {
+  background-size: 100% !important;
+}
+
+.container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+  font-family: "TitilliumWeb-Bold";
+  font-size: 56px;
+}
+
+.container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+  width: 67%;
+}
+
+.container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 img {
+  object-fit: contain;
+}
+
+/* sectionOne */
+.redbackground,
+.cardRed,
+.divRed {
+  background-color: #E53537 !important;
+}
+
+section.one .container-fluid .row .divRed {
+  max-width: 534px;
+  height: 609px;
+  bottom: 85px;
+  border-radius: 0 33px 0 0;
+  -webkit-border-radius: 0 33px 0 0;
+  -moz-border-radius: 0 33px 0 0;
+  -ms-border-radius: 0 33px 0 0;
+  -o-border-radius: 0 33px 0 0;
+}
+
+section.one .container-fluid .row .carouselControl {
+  width: calc(100% - 534px);
+  padding: 0;
+  position: relative;
+  bottom: 43px;
+  flex-wrap: nowrap;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard {
+  min-width: 534px !important;
+  max-width: 534px !important;
+  width: 100% !important;
+  border: 0;
+  box-shadow: 0px 0px 21px #1F253752;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.w-90 {
+  min-width: auto !important;
+  width: 90% !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.w-90.auditoriaInterna {
+  width: 80% !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-header.d-flex {
+  border: 0;
+  padding: 11% 0% 0% 6%;
+  background-color: #FFF;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.cardRed .card-header.d-flex {
+  padding-left: 5%;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 15%;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.cardRed .card-body {
+  padding-left: 13% !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body ul.d-flex.flex-column.align-items-start.justify-content-center.p-0.m-0 {
+  padding: 3rem 0 0 2rem !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-header.d-flex .h2.credFiscais {
+  width: 77% !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body .h6.mb-5.pb-5 {
+  padding-left: 2rem !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h2 {
+  font-size: 30px;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body.cardRed .h6.mb-5.pb-5 {
+  padding-left: 0 !important;
+}
+
+section.two {
+  height: 600px;
+  background: url('../images/servicos_contabilidade/Grupo4475@2x.webp') no-repeat center;
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 0 0 33px;
+  -webkit-border-radius: 0 0 0 33px;
+  -moz-border-radius: 0 0 0 33px;
+  -ms-border-radius: 0 0 0 33px;
+  -o-border-radius: 0 0 0 33px;
+}
+
+section.three {
+  padding: 6% 0;
+}
+
+section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.blueBackground.d-flex.flex-column.justify-content-start.align-items-start {
+  background-color: #1C1C3A;
+}
+
+section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex {
+  min-width: 372px;
+  max-width: 373px;
+  min-height: 465px;
+  max-height: 466px;
+  padding: 6% 6% 0 7%;
+  margin: 3px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+section.four {
+  height: 294px;
+  background: url('../images/servicos_contabilidade/BANNER.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.pl-3.m-0 {
+  border-width: 1px 1px 1px 0px;
+  border-radius: 0px 7px 7px 0px;
+  padding: 2.75% 0;
+  border-style: solid;
+  border-color: #fff;
+  width: 65%;
+}
+
+section.sectionMobile {
+  display: none !important;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+  .container-fluid.servicosContabilidade {
+    background: url('../images/servicos_contabilidade/Grupo4676.png') no-repeat center !important;
+    background-size: cover !important;
+  }
+
+  a.btnRed {
+    position: relative;
+    width: 70% !important;
+    left: 16%;
+  }
+
+  section.sectionMobile {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section.one .container-fluid .row .carouselControl,
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.img {
+    display: none !important;
+  }
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+    text-align: center;
+    font-size: 45px;
+  }
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    width: 100%;
+    text-align: center;
+    padding: 7% 2% 0;
+  }
+
+  section.one {
+    height: 140px !important;
+  }
+
+  section.one .container-fluid .row,
+  section.one .container-fluid {
+    height: inherit;
+  }
+
+  section.one .container-fluid .row .divRed .h2 {
+    text-align: center;
+    width: 100% !important;
+    font-size: 30px;
+  }
+
+  section.one .container-fluid .row .divRed {
+    height: 191px;
+    bottom: 36%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 {
+    padding: 0;
+    box-shadow: 0px 0px 21px #1F253752;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card {
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card {
+    border: 0;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader.d-flex.justify-content-center.align-items-center {
+    margin-bottom: 8%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card ul {
+    list-style: disc;
+    width: 90%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card ul li {
+    font-size: 16px;
+  }
+
+  section.two {
+    border-radius: 0 0 33px 33px;
+    -webkit-border-radius: 0 0 33px 33px;
+    -moz-border-radius: 0 0 33px 33px;
+    -ms-border-radius: 0 0 33px 33px;
+    -o-border-radius: 0 0 33px 33px;
+  }
+
+  section.two .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h2.font-weight-bold.d-flex.justify-content-center.align-items-center.w-75 {
+    width: 100% !important;
+    margin-bottom: 12%;
+  }
+
+  main {
+    background-color: #EEEEEE;
+  }
+
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.justify-content-start.align-items-center p.h2,
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.mb-0,
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6.pr-2,
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h2.font-weight-bold.mb-5,
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6.font-weight-bold.mb-4,
+  section.two .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h2.font-weight-bold.d-flex.justify-content-center.align-items-center.w-75,
+  section.two .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7.d-flex.flex-column.justify-content-center.align-items-start p.h6.mb-4 {
+    text-align: center;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h2.font-weight-bold.mb-5 {
+    font-size: 32px;
+    width: 90% !important;
+    margin-top: 7%;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6.font-weight-bold.mb-4 {
+    width: 70% !important;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6.pr-2 {
+    padding: 0 !important;
+    width: 90% !important;
+    margin-bottom: 10%;
+  }
+
+  section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0.d-flex.justify-content-center.align-items-center {
+    flex-direction: column;
+  }
+
+  section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0.d-flex.justify-content-center.align-items-center.secondColumn {
+    flex-direction: column-reverse;
+  }
+
+  section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex {
+    padding: 6% 10%;
+    margin: 0;
+    justify-content: center !important;
+  }
+
+  section.four {
+    background: url('../images/servicos_contabilidade/gestaoFinanceira.webp') no-repeat center !important;
+    height: 514px;
+    border-radius: 33px 33px 0 0;
+    -webkit-border-radius: 33px 33px 0 0;
+    -moz-border-radius: 33px 33px 0 0;
+    -ms-border-radius: 33px 33px 0 0;
+    -o-border-radius: 33px 33px 0 0;
+    margin-top: 10%;
+    background-size: cover !important;
+  }
+
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.mb-0 {
+    margin: 8% 0 !important;
+  }
+
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.justify-content-start.align-items-center p.h2 {
+    width: 75% !important;
+  }
+
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.justify-content-start.align-items-center,
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 a.w-100 .call.w-100.d-flex.justify-content-start.align-items-center,
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 a.w-100 .whats.w-100.d-flex.justify-content-start.align-items-center {
+    justify-content: center !important;
+  }
+
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2600px) {
+
+  section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard {
+    min-width: none !important;
+    max-width: none !important;
+  }
+
+  section.two .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h2.font-weight-bold.d-flex.justify-content-center.align-items-center.w-75 {
+    width: 53% !important;
+  }
+
+  section.two .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 {
+    max-width: 44% !important;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.p-0.d-flex.justify-content-center.align-items-center.flex-column {
+    align-items: flex-start !important;
+  }
+
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h2.font-weight-bold.mb-0,
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.p-0.d-flex.justify-content-center.align-items-center.flex-column p.h2.font-weight-bold.mb-5 {
+    width: 90% !important;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.p-0.d-flex.justify-content-center.align-items-center.flex-column p.h6.font-weight-bold.mb-4 {
+    width: 85% !important;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.p-0.d-flex.justify-content-center.align-items-center.flex-column p.h6.pr-2 {
+    width: 79% !important;
+  }
+
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1400px) {
+  .container-fluid.servicosContabilidade {
+    background: url('../images/servicos_contabilidade/Grupo3987.webp') no-repeat right bottom !important;
+    background-size: cover !important;
+  }
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 img {
+    position: relative;
+    top: 8vh;
+  }
+
+  section.one {
+    zoom: 80%;
+  }
+
+  section.one .container-fluid .row .divRed {
+    max-width: 500px;
+  }
+  section.one .container-fluid .row .carouselControl {
+    width: calc(100% - 500px);
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1300px) {
+
+  .container-fluid.servicosContabilidade {
+    background-size: cover !important;
+  }
+
+  section.one .container-fluid .row .divRed {
+    max-width: 400px !important;
+  }
+
+  section.one .container-fluid .row .carouselControl {
+    width: calc(100% - 400px) !important;
+  }
+
+  section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.w-90.auditoriaInterna,
+  section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.w-90,
+  section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h2 {
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body ul.d-flex.flex-column.align-items-start.justify-content-center.p-0.m-0 {
+    padding: 0 !important;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+    max-width: 70% !important;
+    flex: 0 0 70% !important;
+  }
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+    font-size: 56px;
+  }
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    font-size: 21px;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5,
+  section.one .container-fluid .row .divRed {
+    max-width: 100%;
+  }
+
+  section.one .container-fluid .row .divRed {
+    width: 100%;
+  }
+
+  section.one .container-fluid .row .divRed .h2 {
+    font-size: 32px;
+    width: 60% !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader.d-flex.justify-content-center.align-items-center {
+    padding-left: 5%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card p.h6 {
+    width: 50% !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card ul {
+    width: 65% !important;
+  }
+
+  section.four .container .row,
+  section.three .container .row,
+  section.two .container .row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.justify-content-center.align-items-center,
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.justify-content-start.align-items-center,
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.justify-content-start.align-items-center,
+  section.two .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7.d-flex.flex-column.justify-content-center.align-items-start,
+  section.two .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.justify-content-center.align-items-center {
+    padding: 0 !important;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.p-0.d-flex.justify-content-center.align-items-center.flex-column {
+    max-width: 55%;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6.pr-2 {
+    width: 105% !important;
+  }
+
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.justify-content-start.align-items-center {
+    max-width: 40%;
+  }
+
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.justify-content-start.align-items-center p.h2 {
+    width: 100% !important;
+  }
+
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.justify-content-start.align-items-center {
+    max-width: 60%;
+  }
+
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.justify-content-center.align-items-center {
+    max-width: 45%;
+  }
+
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.pl-3.m-0 {
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 415px) {
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    font-size: 16px;
+  }
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+    font-size: 40px;
+  }
+
+  section.one .container-fluid .row .divRed .h2 {
+    font-size: 28px;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader.d-flex.justify-content-center.align-items-center img.d-block.ml-3 {
+    margin: 0 !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader.d-flex.justify-content-center.align-items-center {
+    padding-left: 2%;
+    width: 95%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader.d-flex.justify-content-center.align-items-center p.h2 {
+    width: 100% !important;
+    padding-left: 5% !important;
+    font-size: 25px;
+    margin-bottom: 0 !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card ul {
+    width: 100%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card p.h6 {
+    width: 90% !important;
+    font-size: 16px;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h2.font-weight-bold.mb-5 {
+    font-size: 28px;
+    width: 95% !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex {
+    min-width: auto;
+    max-width: 340px !important;
+  }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+    font-size: 30px;
+  }
+
+
+  a.btnRed {
+    font-size: 18px !important;
+  }
+
+  .container-fluid.servicosContabilidade .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    padding: 7% 0 0 0;
+    font-size: 13px;
+  }
+
+  section.one .container-fluid .row .divRed .h2 {
+    font-size: 24px;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader.d-flex.justify-content-center.align-items-center p.h2 {
+    padding-left: 3% !important;
+    font-size: 23px;
+  }
+
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.mb-0,
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h6.pr-2,
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card ul li,
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card p.h6 {
+    font-size: 14px;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card.auditoriaInterna .titleHeader.d-flex.justify-content-center.align-items-center {
+    padding-left: 7%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card.auditoriaInterna .titleHeader.d-flex.justify-content-center.align-items-center,
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card ul {
+    width: 100% !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card ul {
+    padding-left: 12% !important;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h2.font-weight-bold.mb-5,
+  section.two .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h2.font-weight-bold.d-flex.justify-content-center.align-items-center.w-75 {
+    font-size: 25px;
+  }
+
+  section.two .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7.d-flex.flex-column.justify-content-center.align-items-start p.h6.mb-4 {
+    font-size: 15px !important;
+  }
+
+  section.three .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3 p.h2.font-weight-bold.mb-5 {
+    margin-bottom: 1.5rem !important;
+  }
+
+  section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex {
+    min-width: auto;
+    max-width: 300px;
+  }
+
+  section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex p.h2 {
+    font-size: 28px;
+  }
+
+  section.three .container .row .col-sm-9.col-md-9.col-lg-9.col-xl-9.p-0.m-0 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.m-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex p.h6 {
+    font-size: 16px;
+  }
+
+  section.four .container .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.d-flex.justify-content-start.align-items-center p.h2 {
+    width: 90% !important;
+  }
+
+  section.four .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    padding: 0 !important;
+  }
+
+}

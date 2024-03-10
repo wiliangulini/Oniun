@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_811" data-name="Retângulo 811" width="23" height="21.086" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_4585" data-name="Grupo 4585" transform="translate(-4430 -8743)">
+    <g id="Grupo_4584" data-name="Grupo 4584" transform="translate(374.982 4149)">
+      <g id="Grupo_4582" data-name="Grupo 4582" transform="translate(1536.018 5885)">
+        <g id="Grupo_526" data-name="Grupo 526" transform="translate(2519 -1291)">
+          <rect id="Retângulo_151" data-name="Retângulo 151" width="63" height="63" rx="15" fill="#e53537"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_4370" data-name="Grupo 4370" transform="translate(4750 8881.162)">
+      <g id="Grupo_4369" data-name="Grupo 4369" transform="translate(-300 -116.162)" clip-path="url(#clip-path)">
+        <path id="Caminho_4252" data-name="Caminho 4252" d="M22.684,17.2H.315A.315.315,0,0,1,0,16.884V.315A.315.315,0,0,1,.315,0h22.37A.315.315,0,0,1,23,.315v16.57a.316.316,0,0,1-.316.316M.63,16.57H22.37V.63H.63Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Caminho_4253" data-name="Caminho 4253" d="M7.784,19.131a.314.314,0,0,1-.315-.315v-3.6a.315.315,0,0,1,.629,0v3.6a.314.314,0,0,1-.315.315" transform="translate(0.835 1.665)" fill="#fff"/>
+        <path id="Caminho_4254" data-name="Caminho 4254" d="M12.98,19.131a.314.314,0,0,1-.315-.315v-3.6a.315.315,0,0,1,.629,0v3.6a.314.314,0,0,1-.315.315" transform="translate(1.415 1.665)" fill="#fff"/>
+        <path id="Caminho_4255" data-name="Caminho 4255" d="M22.351,12.936H.316a.315.315,0,1,1,0-.63H22.351a.315.315,0,0,1,0,.63" transform="translate(0 1.375)" fill="#fff"/>
+        <path id="Caminho_4256" data-name="Caminho 4256" d="M16.571,19.029H5.281a.315.315,0,0,1,0-.63h11.29a.315.315,0,0,1,0,.63" transform="translate(0.555 2.056)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

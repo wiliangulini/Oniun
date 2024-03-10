@@ -1,0 +1,1036 @@
+.controlLeft h2 {
+  color: #00183B;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card p.txt {
+  text-align: center;
+  position: relative;
+  margin: 0;
+  bottom: -15%;
+  width: 145px;
+  height: 104px;
+  color: #1C1C3A;
+  border: 0;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 30%;
+  max-width: 232px;
+  max-height: 202px;
+  height: 202px;
+  margin: 0 15px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card.mid p.h5 {
+  border-color: #FFF;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card.mid p:hover a,
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card.mid a {
+  color: #FFF;
+  border-color: #FFF;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card p a {
+  color: #000;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card p {
+  border-bottom: 1px solid #1C1C3A;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  color: #000;
+  width: 80%;
+  z-index: 10;
+  top: 5%;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card p a {
+  height: 0;
+  transition: all 0.5s linear;
+  -webkit-transition: all 0.5s linear;
+  -moz-transition: all 0.5s linear;
+  -ms-transition: all 0.5s linear;
+  -o-transition: all 0.5s linear;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card p:hover a {
+  height: 40px;
+  border-radius: 7px;
+  border: 1px solid #000;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
+
+header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card p:hover {
+  border: 0;
+}
+
+.backgroundBanner {
+  background-size: cover !important;
+}
+
+#clientesCarouselMobile {
+  display: none !important;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6 a.btn.btn-primary,
+section.container-fluid .row.position-absolute .col-sm-12.col-md-12.col-lg-12.col-xl-12 .card.position-absolute p.h3.font-weight-bold.mb-0 {
+  color: #FFF;
+}
+
+section.container-fluid .row.position-absolute .col-sm-12.col-md-12.col-lg-12.col-xl-12 .card.position-absolute {
+  background-color: #E53537;
+}
+
+section.container-fluid {
+  background-color: #eeeeee;
+  padding: 100px 0 0;
+  position: relative;
+  bottom: 25px;
+  border-radius: 30px;
+  z-index: 2;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+
+section.container-fluid .row.position-absolute .col-sm-12.col-md-12.col-lg-12.col-xl-12 .card.position-absolute {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 75px;
+  height: 55px;
+  width: 533px;
+}
+
+section.container-fluid .row.position-absolute .col-sm-12.col-md-12.col-lg-12.col-xl-12 .card.position-absolute p.h3.font-weight-bold.mb-0 {
+  font-size: 32px;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 img#pessoa {
+  width: 100%;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 img#fabrica {
+  position: absolute;
+  right: -11%;
+  top: 44%;
+  width: 291px;
+  height: 310px;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.justify-content-center.align-items-start {
+  padding-left: 7%;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h1 {
+  font-size: 56px;
+  font-weight: bold;
+  letter-spacing: 0;
+  margin-bottom: 0;
+  font-family: 'TitilliumWeb-Bold';
+  color: #00183B;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6 a.btn.btn-primary,
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h6 {
+  left: 13%;
+  position: relative;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h6 {
+  color: #1F2537;
+  font-weight: 400 !important;
+  width: 321px;
+  height: 234px;
+  top: 6%;
+}
+
+section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6 a.btn.btn-primary {
+  background-color: #E53537 !important;
+  border: none !important;
+  font-size: 17px !important;
+}
+
+section.two {
+  max-height: 705px;
+  height: 705px;
+  overflow: hidden;
+  bottom: 25px;
+
+}
+
+section.two.position-relative .imgFundo {
+  position: absolute;
+  right: -4%;
+  top: 0;
+  z-index: 1;
+  object-fit: contain;
+}
+
+section.two .container .row #clientesCarousel {
+  height: 420px;
+  padding-top: 4px;
+  position: relative;
+  z-index: 2;
+}
+
+section.two .container .row #clientesCarousel .carousel-inner .carousel-item .col-sm-12.col-md-12.col-lg-12.col-xl-12 .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+  max-width: 210px !important;
+  height: 202px;
+  border: 1px solid #DDD;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+section.two .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+  display: flex;
+  z-index: 2;
+  max-width: 100%;
+  width: 1414px;
+  height: 206px;
+  padding-left: 0;
+}
+
+button.carousel-control-prev.clientesCarousel {
+  left: -10%;
+}
+
+button.carousel-control-next.clientesCarousel {
+  right: 1%;
+}
+
+section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt {
+  padding-left: 3.5%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding-right: 0;
+  z-index: 10;
+  left: 5%;
+}
+
+section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt p.h1 {
+  color: #00183B;
+}
+
+section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h1,
+section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt p.h1 {
+  font-size: 56px;
+  margin-bottom: 0;
+  font-family: 'TitilliumWeb-Bold';
+}
+
+section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt .controleTxt {
+  width: 100%;
+  display: flex;
+}
+
+section.controlSections.position-relative {
+  bottom: 25px;
+}
+
+section.three {
+  background: url('../images/home/Grupo4372.webp') no-repeat center;
+  object-fit: cover;
+  height: 675px;
+  max-height: 675px;
+}
+
+section.three .container-fluid,
+section.three .container-fluid .row {
+  height: inherit;
+}
+
+section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h1 {
+  color: #FFF;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+  top: 60px;
+  left: 12%;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner {
+  width: 678px;
+  height: 675px;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-indicators {
+  bottom: 9px !important;
+  width: 15%;
+  left: 27.5%;
+  justify-content: center;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-indicators li {
+  background-color: #000;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  margin: 0 10px;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card {
+  max-width: 574px;
+  height: 675px;
+  z-index: 10;
+  left: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0 5% 5% 5%;
+  border-radius: 33px;
+  -webkit-border-radius: 33px;
+  -moz-border-radius: 33px;
+  -ms-border-radius: 33px;
+  -o-border-radius: 33px;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .divTxt {
+  width: 75%;
+  text-align: center;
+  position: relative;
+  left: 0.5%;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .divTxt p.h6.nameUser.text-center,
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .divTxt p.h6.text-center {
+  position: relative;
+  top: 20px;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .divTxt p.h6.text-center.w-75 {
+  left: 14%;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-next,
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-prev {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 50px;
+  top: 46%;
+  opacity: 1;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-prev {
+  left: -5%;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-next {
+  right: -5%;
+}
+
+section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+section.red {
+  height: 417px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #E53537;
+  border-radius: 0px 0px 33px 33px;
+  -webkit-border-radius: 0px 0px 33px 33px;
+  -moz-border-radius: 0px 0px 33px 33px;
+  -ms-border-radius: 0px 0px 33px 33px;
+  -o-border-radius: 0px 0px 33px 33px;
+}
+
+section.red .container .row {
+  color: #FFF;
+  position: relative;
+  top: 25px;
+}
+
+section.red .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h1 {
+  font-size: 56px;
+}
+
+section.red .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h6 {
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+section.red .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 a.solCont {
+  color: #00183B;
+  background-color: #FFF;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 164px;
+  height: 41px;
+}
+
+article .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 img {
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  object-fit: cover !important;
+}
+
+article .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6 {
+  font-weight: 400 !important;
+  font-size: 16px;
+}
+
+article .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h2 {
+  font-size: 30px;
+  margin-top: 8%;
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2600px) {
+  .backgroundBanner {
+    background: url('../images/home/BANNER@2x.webp') no-repeat center !important;
+    background-size: 100% !important;
+  }
+
+  section.two.position-relative .imgFundo {
+    right: 5%;
+  }
+
+  section.three {
+    background: url('../images/home/Grupo4372@2x.png') no-repeat center;
+    background-size: cover;
+    border-radius: 33px 33px 0 0;
+    -webkit-border-radius: 33px 33px 0 0;
+    -moz-border-radius: 33px 33px 0 0;
+    -ms-border-radius: 33px 33px 0 0;
+    -o-border-radius: 33px 33px 0 0;
+  }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1439px) {
+  #navbarNav ul.navbar-nav {
+    padding: 0 !important;
+  }
+
+  .backgroundBanner .row .title {
+    left: 12% !important;
+    bottom: 210% !important;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt .controleTxt {
+    width: 80% !important;
+    justify-content: center !important;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 img#fabrica {
+    right: -16%;
+    top: 26%;
+    width: 35%;
+    height: auto;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.justify-content-center.align-items-start {
+    padding-left: 9%;
+    zoom: 90%;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+  #clientesCarouselMobile {
+    display: flex !important;
+  }
+
+  header .container-fluid.backgroundBanner .row.justify-content-around.align-items-center {
+    bottom: 7.5% !important;
+    height: 80vh;
+  }
+
+  header .container-fluid.backgroundBanner .row .title h1 {
+    text-align: center;
+    width: 85%;
+  }
+
+  header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card {
+    zoom: 90%;
+  }
+
+  .backgroundBanner .row .col-sm-7.col-md-7.col-lg-7.col-xl-7.p-0.m-0.d-flex.justify-content-center.align-items-center.w-100 {
+    flex-direction: column;
+    height: 70vh;
+    justify-content: space-between !important;
+    z-index: 1;
+    top: 0vh;
+  }
+
+  .backgroundBanner {
+    flex-direction: column !important;
+  }
+
+  .backgroundBanner .row .title {
+    position: relative;
+    top: -35vh;
+  }
+
+  section.container-fluid {
+    bottom: 0;
+    padding: 25% 0 !important;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  section.container-fluid .row.position-absolute {
+    top: 0;
+  }
+
+  section.container-fluid .row.position-absolute .col-sm-12.col-md-12.col-lg-12.col-xl-12 .card.position-absolute {
+    width: 85% !important;
+    left: 10.5% !important;
+    top: -30px !important;
+  }
+
+  #clientesCarousel,
+  section.two.position-relative .imgFundo,
+  section.container-fluid .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.img {
+    display: none !important;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.justify-content-center.align-items-start {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    align-items: center !important;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt,
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6 a.btn.btn-primary,
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h6 {
+    left: 0;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h6 {
+    padding-top: 5%;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h6,
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h1 {
+    font-size: 45px;
+  }
+
+  section.two .container .row {
+    flex-direction: column-reverse;
+  }
+
+  section.two .container .row #clientesCarouselMobile {
+    height: 420px;
+    padding-top: 4px;
+    position: relative;
+    z-index: 2;
+    padding-left: 25%;
+    padding-right: 20%;
+  }
+
+  section.two .container .row #clientesCarouselMobile .carousel-inner .carousel-item .col-sm-12.col-md-12.col-lg-12.col-xl-12 .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    max-width: 210px !important;
+    height: 202px;
+    border: 1px solid #DDD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt {
+    padding: 0 15px;
+    align-items: center !important;
+    margin: 8% 0;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt .controleTxt {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  section.three {
+    background: url('../images/home/Grupo4372Mobile.png') no-repeat center !important;
+    background-size: cover !important;
+    border-radius: 33px 33px 0 0;
+    -webkit-border-radius: 33px 33px 0 0;
+    -moz-border-radius: 33px 33px 0 0;
+    -ms-border-radius: 33px 33px 0 0;
+    -o-border-radius: 33px 33px 0 0;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+    left: 0;
+    padding: 0;
+    top: -13px;
+  }
+
+  section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h1 {
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 5%;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner {
+    width: 425px;
+    height: auto !important;
+    top: 4vh;
+    padding: 0;
+    overflow: visible;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card {
+    max-width: 350px;
+    left: 38px;
+    padding: 2% 1%;
+    height: auto;
+    background: transparent;
+    border: 0;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .card-header {
+    width: 100%;
+    z-index: 17;
+    position: relative;
+    height: 125px;
+    background: transparent;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-indicators {
+    bottom: 0 !important;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFF;
+    border: 0;
+    border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -moz-border-radius: 33px;
+    -ms-border-radius: 33px;
+    -o-border-radius: 33px;
+    padding: 40% 2%;
+    margin-bottom: 2.5%;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .controlImg {
+    position: absolute;
+    top: -4%;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .controlImg.mb-4.pb-1 {
+    z-index: 20;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-prev {
+    left: -3%;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-next,
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-prev {
+    display: none !important;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators button.carousel-control-next {
+    right: -3%;
+  }
+
+  section.red {
+    height: 540px;
+  }
+
+  section.red .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h1 {
+    font-size: 45px;
+    text-align: center;
+    margin-top: 25%;
+  }
+
+  section.red .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h6 {
+    padding: 6% 0 5%;
+  }
+
+  section.red .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7.d-flex.justify-content-around.align-items-center {
+    flex-direction: column;
+  }
+
+  article.container-fluid .container .row.justify-content-between {
+    margin-bottom: 2.5rem !important;
+  }
+
+  article.container-fluid .container .row.justify-content-between .controlLeft {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  article.container-fluid .container .row.justify-content-between .controlRight {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+  }
+
+  article.container-fluid .container .row.justify-content-between .controlRight p.h6 {
+    margin-bottom: 0;
+  }
+
+  article.container-fluid .container.pt-5.pb-5 {
+    padding-top: 1rem !important;
+  }
+
+  article .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h2 {
+    margin: 3% 0 8%;
+    width: 90%;
+  }
+
+  article .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6 {
+    display: none !important;
+  }
+
+  article.container-fluid.pb-5 {
+    padding-bottom: 0 !important;
+  }
+
+  article.container-fluid .container .row.justify-content-between .controlLeft p.h6.pl-5,
+  article.container-fluid .container.pt-5.pb-5 {
+    padding: 0 !important;
+  }
+
+  article.container-fluid .container .row.justify-content-between .controlLeft p.h6.pl-5 {
+    text-align: center;
+  }
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 415px) {
+
+  section.two .container .row #clientesCarouselMobile .carousel-inner .carousel-item .col-sm-12.col-md-12.col-lg-12.col-xl-12 .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    max-width: 200px !important;
+  }
+
+  section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h1,
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt p.h1 {
+    font-size: 45px;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt .controleTxt {
+    justify-content: center;
+  }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+  .backgroundBanner .row .title {
+    bottom: 200%;
+  }
+
+  section.container-fluid .row.position-absolute .col-sm-12.col-md-12.col-lg-12.col-xl-12 .card.position-absolute {
+    left: 5%;
+  }
+
+  section.container-fluid .row.position-absolute .col-sm-12.col-md-12.col-lg-12.col-xl-12 .card.position-absolute p.h3.font-weight-bold.mb-0 {
+    font-size: 25px;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h1 {
+    font-size: 35px;
+  }
+
+  section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h1,
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt p.h1 {
+    font-size: 40px;
+  }
+
+  section.two .container .row #clientesCarouselMobile {
+    padding-left: 20%;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt .controleTxt {
+    justify-content: center;
+  }
+
+  section.two .container .row button.carousel-control-next.clientesCarouselMobile {
+    right: 4%;
+    bottom: 5%;
+  }
+
+  section.two .container .row button.carousel-control-prev.clientesCarouselMobile {
+    left: 4%;
+    bottom: 3%;
+  }
+
+  section.two .container .row #clientesCarouselMobile .carousel-inner .carousel-item .col-sm-12.col-md-12.col-lg-12.col-xl-12 .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    max-width: 190px !important;
+  }
+
+  section.red .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 p.h1 {
+    font-size: 40px;
+    margin-top: 20%;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card {
+    max-width: 310px;
+    left: 58px;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .divTxt p.h6.text-center.w-75 {
+    left: 0;
+    width: 100% !important;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-indicators {
+    bottom: -5px !important;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .controlImg {
+    top: 7%;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .divTxt {
+    width: 95%;
+  }
+
+  article .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h2 {
+    width: 100% !important;
+    font-size: 25px !important;
+  }
+
+}
+
+@media only screen and (min-width: 1601px) and (max-width: 1900px) {
+  .backgroundBanner {
+    background-size: auto !important;
+    background: url('../images/home/BANNER@2x.webp') no-repeat center bottom !important;
+  }
+
+  section.two.position-relative .imgFundo {
+    right: -12%;
+  }
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1600px) {
+  section.two.position-relative .imgFundo {
+    right: -23%;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 img#fabrica {
+    top: 25%;
+    width: 250px;
+    height: 270px;
+  }
+
+}
+
+@media only screen and (min-width: 1024px) and (max-width:1300px) {
+  #navbarNav ul.navbar-nav {
+    padding: 0 !important;
+  }
+
+  .backgroundBanner .row .title {
+    left: 12% !important;
+    bottom: 210% !important;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt .controleTxt {
+    width: 80% !important;
+    justify-content: center !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+  .backgroundBanner {
+    background: url('../images/home/BANNERMOBILE.png') no-repeat !important;
+    background-size: cover !important;
+    background-position: left bottom !important;
+    height: 120vh !important;
+  }
+
+  .backgroundBanner .row .title {
+    left: 0;
+    bottom: 186%;
+  }
+
+  section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4,
+  section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h1,
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt,
+  main header .container-fluid .container {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  header .container-fluid.backgroundBanner .row.justify-content-around.align-items-center {
+    bottom: 5% !important;
+    height: 65vh !important;
+  }
+
+  header .container-fluid.backgroundBanner .row .title h1 {
+    width: 65% !important;
+    font-size: 56px !important;
+  }
+
+  header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card {
+    max-height: 175px !important;
+    height: 175px !important;
+  }
+
+  section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h1,
+  header .container-fluid.p-0 .container.h-100 .row.h-100,
+  header .container-fluid.p-0 .container.h-100 {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  header .container-fluid.p-0,
+  header .container-fluid.p-0 .container.h-100,
+  header .container-fluid.p-0 .container.h-100 .row.h-100,
+  header .container-fluid.backgroundBanner .row .col-sm-3.col-md-3.col-lg-3.col-xl-3.card p.txt,
+  section.container-fluid .row.w-100 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.justify-content-center.align-items-start {
+    padding: 0 !important;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h1 {
+    font-size: 50px;
+    position: relative;
+    bottom: 30px;
+  }
+
+  section.container-fluid .row.w-100 .col-sm-6.col-md-6.col-md-6.col-xl-6 p.h6 {
+    font-size: 18px;
+  }
+
+  section.two .container .row .col-sm-4.col-md-4.col-lg-4.col-xl-4.txt {
+    max-width: 55%;
+  }
+
+  section.two .container .row {
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  section.two .container .row #clientesCarouselMobile {
+    width: 100%;
+    height: 420px;
+    padding: 0;
+  }
+
+  section.two .container .row #clientesCarouselMobile .carousel-inner .carousel-item .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.flex-column.w-100 .row,
+  section.two .container .row #clientesCarouselMobile .carousel-inner .carousel-item .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.flex-column.w-100,
+  section.two .container .row #clientesCarouselMobile .carousel-inner .carousel-item,
+  section.two .container .row #clientesCarouselMobile .carousel-inner {
+    height: inherit;
+  }
+
+  section.three {
+    height: auto !important;
+  }
+
+  section.three .container-fluid .row {
+    flex-direction: column;
+    position: relative;
+    top: 100px;
+  }
+
+  section.three .container-fluid .row .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    max-width: 100% !important;
+    bottom: 25px;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+    top: 15px;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-indicators {
+    left: 27%;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card .controlImg {
+    top: -7% !important;
+  }
+
+  section.three .container-fluid .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 #carouselExampleIndicators .carousel-inner .carousel-item .card {
+    max-width: 500px !important;
+    height: 630px !important;
+    left: 0 !important;
+    top: 60px !important;
+  }
+
+  article.container-fluid .container .row.justify-content-between,
+  section.red .container .row {
+    flex-direction: column;
+  }
+
+  article.container-fluid .container .row.justify-content-between .col-sm-4.col-md-4.col-lg-4.col-xl-4.d-flex.flex-column.align-content-center.justify-content-center {
+    max-width: 50%;
+  }
+
+  article.container-fluid .container .row.justify-content-between .controlRight {
+    margin-top: 5%;
+  }
+}

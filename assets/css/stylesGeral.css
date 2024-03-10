@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'TitilliumWeb-Regular';
+  src: url('../fonts/TitilliumWeb-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'TitilliumWeb-SemiBold';
+  src: url('../fonts/TitilliumWeb-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'TitilliumWeb-Bold';
+  src: url('../fonts/TitilliumWeb-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Raleway-Bold';
+  src: url('../fonts/Raleway-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Raleway-Regular';
+  src: url('../fonts/Raleway-Regular.ttf');
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "TitilliumWeb-Regular" !important;
+}
+
+main {
+  overflow: hidden;
+}
+
+.w-20 {
+  width: 20% !important;
+}
+
+.w-58 {
+  width: 58% !important;
+}
+
+.w-60 {
+  width: 60% !important;
+}
+
+.w-65 {
+  width: 65% !important;
+}
+
+.w-70 {
+  width: 70% !important;
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+.w-90 {
+  width: 90% !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: #FFF;
+  text-transform: all 0.5s ease-in-out !important;
+}
+
+a:hover {
+  color: #E53537;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  
+  header .container-fluid.p-0 .container.h-100 .row.h-100,
+  header .container-fluid.p-0 .container.h-100 {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  header .container-fluid.p-0,
+  header .container-fluid.p-0 .container.h-100,
+  header .container-fluid.p-0 .container.h-100 .row.h-100 {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  
+}

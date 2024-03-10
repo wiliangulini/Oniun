@@ -1,0 +1,569 @@
+section.one .container-fluid .row .divRed .h2,
+.cardRed,
+.divRed,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .cardRed p,
+.container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1,
+.container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6,
+section.three .container-fluid .row {
+  color: #FFF !important;
+}
+
+p.h6,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h6,
+.container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+  font-size: 17px;
+}
+
+a.btnRed {
+  background-color: #E53537 !important;
+  border: 0 !important;
+  height: 50px !important;
+  font-size: 22px !important;
+  width: 30%;
+  border-radius: 8px !important;
+}
+
+section.one,
+section.one .container-fluid,
+section.one .container-fluid .row,
+section.one .container-fluid .row .carouselControl,
+section.one .container-fluid .row #carouselExampleControls,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard {
+  height: 524px;
+}
+
+section.one .container-fluid .row .divRed p.h2.font-weight-bold.text-center,
+.container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+  font-size: 56px !important;
+}
+
+section.one .container-fluid .row .divRed .h2 {
+  font-size: 32px;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h6,
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h2 {
+  color: #1A1A3A;
+}
+
+.container-fluid.servicosDP {
+  background-size: cover !important;
+}
+
+.container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+  font-family: "TitilliumWeb-Bold";
+}
+
+.container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+  width: 67%;
+}
+
+.container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 img {
+  object-fit: contain;
+}
+
+/* sectionOne */
+.redbackground,
+.cardRed,
+.divRed {
+  background-color: #E53537 !important;
+}
+
+section.one .container-fluid .row .divRed p.h2.font-weight-bold.text-center {
+  width: 40% !important;
+}
+
+section.one .container-fluid .row .divRed {
+  height: 609px;
+  max-width: 500px;
+  bottom: 85px;
+  border-radius: 0 33px 0 0;
+  -webkit-border-radius: 0 33px 0 0;
+  -moz-border-radius: 0 33px 0 0;
+  -ms-border-radius: 0 33px 0 0;
+  -o-border-radius: 0 33px 0 0;
+}
+
+section.one .container-fluid .row .carouselControl {
+  width: calc(100% - 500px);
+  padding: 0;
+  position: relative;
+  bottom: 43px;
+  flex-wrap: nowrap;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard {
+  width: 100% !important;
+  border: 0;
+  box-shadow: 0px 0px 21px #1F253752;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.w-90 {
+  min-width: auto !important;
+  width: 90% !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.w-90.auditoriaInterna {
+  width: 80% !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-header.d-flex {
+  border: 0;
+  padding: 11% 0% 0% 6%;
+  background-color: #FFF;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.cardRed .card-header.d-flex {
+  padding-left: 5%;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 15%;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard.cardRed .card-body {
+  padding-left: 13% !important;
+  justify-content: center;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body ul.d-flex.flex-column.align-items-start.justify-content-center.p-0.m-0 {
+  padding: 3rem 0 0 2rem !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-header.d-flex .h2.credFiscais {
+  width: 77% !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body .h6.mb-5.pb-5 {
+  padding-left: 2rem !important;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard p.h2 {
+  font-size: 30px;
+}
+
+section.one .container-fluid .row #carouselExampleControls .carousel-inner .carousel-item .card.carouselCard .card-body.cardRed .h6.mb-5.pb-5 {
+  padding-left: 0 !important;
+}
+
+section.two {
+  background: url('../images/servicos_DP/Grupo4477@2x.webp') no-repeat center;
+  background-size: cover;
+  height: 529px;
+}
+
+section.three {
+  background: url('../images/servicos_DP/BANNER.webp') no-repeat center;
+  background-size: cover;
+  height: 299px;
+}
+
+section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats,
+section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call {
+  justify-content: flex-end !important;
+}
+
+section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats img,
+section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call img {
+  position: relative;
+  left: 3%;
+}
+
+section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats p.h6.pl-3.m-0,
+section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call p.h6.pl-3.m-0 {
+  border-width: 1px 1px 1px 0px;
+  border-radius: 0px 7px 7px 0px;
+  padding: 2.5% 0 2.5% 8%;
+  border-style: solid;
+  border-color: #fff;
+  width: 50%;
+  -webkit-border-radius: 0px 7px 7px 0px;
+  -moz-border-radius: 0px 7px 7px 0px;
+  -ms-border-radius: 0px 7px 7px 0px;
+  -o-border-radius: 0px 7px 7px 0px;
+}
+
+
+section.sectionMobile {
+  display: none;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+  .container-fluid.servicosDP {
+    background: url('../images/servicos_DP/mobileGrupo4677.webp') no-repeat center !important;
+    background-size: cover !important;
+  }
+
+  a.btnRed {
+    position: relative;
+    width: 70% !important;
+    left: 16%;
+  }
+
+  section.sectionMobile {
+    display: flex;
+  }
+
+  section.one .container-fluid .row .carouselControl,
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.justify-content-end.align-items-center {
+    display: none !important;
+  }
+
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+    font-size: 45px !important;
+  }
+
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1,
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    width: 100% !important;
+    text-align: center;
+  }
+
+  section.one {
+    background: #E53537;
+  }
+
+  section.one,
+  section.one .container-fluid,
+  section.one .container-fluid .row,
+  section.one .container-fluid .row .divRed {
+    height: 100px;
+  }
+
+  section.one .container-fluid .row .divRed {
+    bottom: 30px !important;
+  }
+
+  section.one .container-fluid .row .divRed p.h2.font-weight-bold.text-center {
+    width: 100% !important;
+    font-size: 45px !important;
+    margin-bottom: 0;
+    position: relative;
+    top: 10%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 {
+    padding: 0;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card {
+    border: 0;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 21px #1F253752;
+    height: 350px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader {
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20%;
+    margin-bottom: 8%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card.cardRed .titleHeader {
+    padding-left: 1.5%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card.cardRed p.h6.mb-5.pb-5 {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 85%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader p.h2 {
+    width: 70% !important;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card p.h6.mb-5.pb-5.w-60 {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  section.two {
+    background: url('../images/servicos_DP/rhIntegrado.webp') no-repeat center !important;
+    height: 583px;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h2.w-50 {
+    width: 100% !important;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'TitilliumWeb-SemiBold' !important;
+    margin-bottom: 8%;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h2.w-50 strong {
+    font-family: 'TitilliumWeb-Bold' !important;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-center.justify-content-center p.h6.w-90,
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-center.justify-content-center p.h6.mb-4.w-90 {
+    text-align: center;
+    width: 100% !important;
+  }
+
+  main {
+    background-color: #1C1C3A;
+  }
+
+  section.three {
+    height: 511px !important;
+    background: url('../images/servicos_DP/gestaoFinanceira.webp') no-repeat center !important;
+    position: relative;
+    bottom: 30px;
+    border-radius: 33px 33px 0 0;
+    -webkit-border-radius: 33px 33px 0 0;
+    -moz-border-radius: 33px 33px 0 0;
+    -ms-border-radius: 33px 33px 0 0;
+    -o-border-radius: 33px 33px 0 0;
+  }
+
+  section.three .container-fluid .row.w-70 {
+    width: 100% !important;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-7.col-md-7.col-lg-7.col-xl-7 {
+    padding: 0;
+    text-align: center;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h2.font-weight-bold {
+    margin-bottom: 10%;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats,
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call {
+    justify-content: center !important;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats p.h6.pl-3.m-0, section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call p.h6.pl-3.m-0 {
+    width: 60%;
+  }
+
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2600px) {
+
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h2.w-50 {
+    width: 40% !important;
+  }
+
+  section.three .container-fluid .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  section.three .container-fluid .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h2.font-weight-bold {
+    width: 85%;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center a.w-100, section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center a.w-100 {
+    width: 70% !important;
+    margin-bottom: 10px;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats, section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call {
+    justify-content: center !important;
+  }
+
+}
+@media only screen and (min-width: 1300px) and (max-width: 1400px) {
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 img {
+    position: relative;
+    left: -25%;
+    top: 5vh;
+    zoom: 90%;
+  }
+
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.justify-content-center.align-items-start.p-0 {
+    zoom: 85%;
+  }
+
+  section.one {
+    zoom: 80%;
+  }
+
+  section.one .container-fluid .row .carouselControl button.carousel-control-next {
+    position: absolute;
+    top: 75%;
+    right: 15%;
+    opacity: 1;
+  }
+
+  section.one .container-fluid .row .carouselControl {
+    width: 75%;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats p.h6.pl-3.m-0, section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call p.h6.pl-3.m-0 {
+    width: 60%;
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1300px) {
+  .container-fluid.servicosDP {
+    background-size: cover !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5,
+  section.one .container-fluid .row .divRed {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+
+  section.three .container-fluid .row.w-70,
+  section.two .container .row,
+  section.sectionMobile .container-fluid .row {
+    flex-direction: column;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card.cardRed p.h6.mb-5.pb-5 {
+    width: 55%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card.cardRed .titleHeader p.h2 {
+    padding-left: 21% !important;
+    width: 100% !important;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.align-items-center.justify-content-center {
+    max-width: 70%;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h2.w-50 {
+    width: 90% !important;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats p.h6.pl-3.m-0, section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call p.h6.pl-3.m-0 {
+    height: 45px;
+    width: 80%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 415px) {
+
+  section.one .container-fluid .row .divRed p.h2.font-weight-bold.text-center,
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+    font-size: 40px !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader p.h2 {
+    padding-left: 4% !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card p.h6.mb-5.pb-5.w-60 {
+    width: 85% !important;
+    font-size: 16px;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader {
+    padding-left: 8%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card.cardRed .titleHeader p.h2 {
+    padding-left: 6% !important;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h2.w-50 {
+    font-size: 26px;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-center.justify-content-center p.h6.w-90,
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-center.justify-content-center p.h6.mb-4.w-90 {
+    font-size: 15px;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h2.font-weight-bold {
+    font-size: 25px;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats p.h6.pl-3.m-0, section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call p.h6.pl-3.m-0 {
+    width: 65%;
+    height: 45px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 h1 {
+    font-size: 30px !important;
+  }
+
+  a.btnRed {
+    font-size: 18px !important;
+  }
+
+  .container-fluid.servicosDP .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h6 {
+    font-size: 13px;
+  }
+
+  section.one, section.one .container-fluid, section.one .container-fluid .row, section.one .container-fluid .row .divRed {
+    height: 70px;
+  }
+
+  section.one .container-fluid .row .divRed p.h2.font-weight-bold.text-center {
+    font-size: 30px !important;
+    top: 20%;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card p.h6.mb-5.pb-5.w-60 {
+    width: 90% !important;
+  }
+
+  section.sectionMobile .container-fluid .row .col-sm-5.col-md-5.col-lg-5.col-xl-5 .card .titleHeader {
+    padding-left: 5%;
+  }
+
+  section.two {
+    height: 480px;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 p.h2.w-50 {
+    font-size: 22px;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-center.justify-content-center p.h6.w-90, section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-center.justify-content-center p.h6.mb-4.w-90 {
+    font-size: 14px;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-7.col-md-7.col-lg-7.col-xl-7 p.h2.font-weight-bold {
+    font-size: 23px;
+  }
+
+  section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .whats p.h6.pl-3.m-0, section.three .container-fluid .row.w-70 .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.flex-column.justify-content-end.align-items-center .call p.h6.pl-3.m-0 {
+    width: 85%;
+    height: 45px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+}

@@ -1,0 +1,220 @@
+main {
+  background-color: #1C1C3A;
+}
+
+p.h6 {
+  font-size: 17px;
+}
+
+.active {
+  background-color: #E53537 !important;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form textarea::placeholder {
+  padding-top: 2%;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form input::placeholder,
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form textarea::placeholder,
+section.one .container .row p.h2,
+section.one .container .row .labels label,
+.container-fluid.contato {
+  color: #FFF !important;
+}
+
+.container-fluid.contato {
+  background: url('../images/contato/BANNER-CONTATO@2x.webp') no-repeat bottom;
+  background-size: cover;
+  height: 60vh;
+}
+
+.container-fluid.contato .container .row.title h1 {
+  font-size: 56px;
+}
+
+section.one {
+  background: url('../images/contato/Grupo4483.svg') no-repeat right;
+  background-size: cover;
+  height: 736px;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels input.cliente {
+  position: absolute;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels input.parceiro {
+  position: relative;
+  right: 3%;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels input.cliente,
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels input.parceiro {
+  opacity: 0;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels label {
+  width: 50%;
+  font-size: 17px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  border: 0.5px solid #EEEEEE;
+  cursor: pointer;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels label.cliente {
+  border-radius: 7px 0 0 7px;
+  -webkit-border-radius: 7px 0 0 7px;
+  -moz-border-radius: 7px 0 0 7px;
+  -ms-border-radius: 7px 0 0 7px;
+  -o-border-radius: 7px 0 0 7px;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels label.parceiro {
+  border-radius: 0 7px 7px 0;
+  -webkit-border-radius: 0 7px 7px 0;
+  -moz-border-radius: 0 7px 7px 0;
+  -ms-border-radius: 0 7px 7px 0;
+  -o-border-radius: 0 7px 7px 0;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .labels label,
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form input {
+  height: 46px;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form input,
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form textarea {
+  background-color: transparent;
+  margin-bottom: 20px;
+  padding-left: 2.75%;
+}
+
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form textarea {
+  height: 160px;
+}
+
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form input,
+section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form textarea {
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  border: 0.5px solid #EEEEEE;
+  color: #FFF;
+}
+
+input.inputSubmit {
+  background-color: #E53537 !important;
+  font-size: 20px !important;
+  font-weight: bold !important;
+  color: #FFF !important;
+  border: 0 !important;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+input.inputSubmit:hover {
+  background-color: #FFF !important;
+  color: #E53537 !important;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+  .container-fluid.contato {
+    height: 100vh;
+  }
+
+  section.one {
+    background: url('../images/contato/mobileGrupo4483.svg') no-repeat right;
+    height: 793px;
+  }
+
+  section.one .container .row p.h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10%;
+  }
+
+  section.one .container .row .col-sm-7.col-md-7.col-lg-7.col-xl-7 form .w-70,
+  section.one .container .row p.h2,
+  section.two .container-fluid.maps iframe {
+    width: 100% !important;
+  }
+
+  section.two .container-fluid.maps {
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2600px) {
+  iframe {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1500px) {
+  iframe {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+  .container-fluid.contato .container .row.title h1 {
+    width: 70%;
+    margin-bottom: 5%;
+  }
+
+  section.one .container .row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section.one .container .row .col-sm-5.col-md-5.col-lg-5.col-xl-5.d-flex.justify-content-center.align-items-center {
+    max-width: 60%;
+  }
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 415px) {
+
+  .container-fluid.contato .container .row.title h1 {
+    font-size: 45px;
+    margin-bottom: 5%;
+  }
+
+  section.one {
+    height: 700px;
+  }
+
+  section.one .container .row p.h2 {
+    font-size: 26px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+  .container-fluid.contato .container .row.title h1 {
+    font-size: 40px;
+  }
+
+  section.one .container .row p.h2 {
+    font-size: 22px;
+  }
+
+  section.one {
+    height: 675px;
+  }
+
+  iframe {
+    height: 90vh;
+  }
+
+}

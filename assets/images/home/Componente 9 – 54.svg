@@ -1,0 +1,13 @@
+<svg id="Componente_9_54" data-name="Componente 9 – 54" xmlns="http://www.w3.org/2000/svg" width="249" height="193" viewBox="0 0 249 193">
+  <text id="Serviços" transform="translate(39)" fill="#fff" font-size="17" font-family="TitilliumWeb-SemiBold, Titillium Web" font-weight="600"><tspan x="0" y="19">Serviços</tspan></text>
+  <g id="Grupo_890" data-name="Grupo 890" transform="translate(-17526 222)">
+    <g id="Grupo_890-2" data-name="Grupo 890">
+      <path id="Caminho_733" data-name="Caminho 733" d="M238,0H55.671L41.33-9,26.8,0H11A11,11,0,0,0,0,11V143a11,11,0,0,0,11,11H238a11,11,0,0,0,11-11V11A11,11,0,0,0,238,0Z" transform="translate(17526 -183)" fill="#1c1c3a"/>
+      <text id="Serviços_de_Software" data-name="Serviços de Software" transform="translate(17552 -156)" fill="#fff" font-size="17" font-family="TitilliumWeb-Regular, Titillium Web"><tspan x="0" y="19">Serviços de Software</tspan></text>
+      <text id="Serviços_de_Contabilidade" data-name="Serviços de Contabilidade" transform="translate(17552 -120)" fill="#fff" font-size="17" font-family="TitilliumWeb-Regular, Titillium Web"><tspan x="0" y="19">Serviços de Contabilidade</tspan></text>
+      <text id="Serviços_de_DP" data-name="Serviços de DP" transform="translate(17552 -84)" fill="#fff" font-size="17" font-family="TitilliumWeb-Regular, Titillium Web"><tspan x="0" y="19">Serviços de DP</tspan></text>
+    </g>
+    <line id="Linha_58" data-name="Linha 58" x2="248" transform="translate(17526.5 -124.5)" fill="none" stroke="#11112e" stroke-width="1"/>
+    <line id="Linha_59" data-name="Linha 59" x2="248" transform="translate(17526.5 -88.5)" fill="none" stroke="#11112e" stroke-width="1"/>
+  </g>
+</svg>

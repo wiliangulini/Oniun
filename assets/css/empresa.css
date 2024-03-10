@@ -1,0 +1,407 @@
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack .col-sm-6.col-md-6.col-lg-6.col-xl-6,
+main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1,
+main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 p.h2,
+section.two .container .row {
+  color: #FFF;
+}
+
+p.h6 {
+  font-size: 17px;
+}
+
+main .container-fluid.empresa {
+  background: url('../images/pag_empresa/Grupo4478.webp') no-repeat center;
+  background-size: cover;
+  height: 100vh;
+}
+
+main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1 {
+  width: 95%;
+}
+
+main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1,
+main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 p.h2 {
+  font-size: 56px;
+}
+
+section.one {
+  background: url('../images/pag_empresa/Grupo4479.svg') no-repeat right;
+  background-size: 80% !important;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack {
+  background: url('../images/pag_empresa/Grupo899.svg') no-repeat center right;
+  background-size: cover;
+  height: 545px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  bottom: 190px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+  max-width: 400px;
+}
+
+main {
+  background-color: #EEEEEE;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-8.col-md-8.col-lg-8.col-xl-8 #sociosFundadores .carousel-inner .carousel-item .card {
+  background-color: transparent !important;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 .buttons button {
+  position: relative !important;
+  opacity: 1;
+  margin-top: 10px;
+  left: -4%;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-8.col-md-8.col-lg-8.col-xl-8 #sociosFundadores .carousel-inner .carousel-item .card img {
+  width: 470px !important;
+  height: 470px;
+  border-radius: 33px;
+  -webkit-border-radius: 33px;
+  -moz-border-radius: 33px;
+  -ms-border-radius: 33px;
+  -o-border-radius: 33px;
+  object-fit: cover;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4.p-0 p.h6 small.textRed {
+  color: #E53537 !important;
+}
+
+section.two {
+  background: url('../images/pag_empresa/Grupo4480.svg') no-repeat center;
+  background-size: cover;
+  height: 396px;
+}
+
+section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6 .lineRed {
+  background-color: #E53537 !important;
+  height: 1px;
+  width: 25%;
+}
+
+section.three {
+  background: url('../images/pag_empresa/IMAGEM_-SOBRE-NÓS.webp') no-repeat center;
+  background-size: cover;
+  height: 1080px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section.three p {
+  color: #1A1A3A !important;
+}
+
+section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 .col-sm-12.col-md-12.col-lg-12.col-xl-12 .col-sm-6.col-md-6.col-lg-6.col-xl-6 .controlIntegracao {
+  background: url('../images/pag_empresa/Grupo4481.webp') no-repeat center;
+  background-size: cover;
+}
+
+section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 .col-sm-12.col-md-12.col-lg-12.col-xl-12 .col-sm-6.col-md-6.col-lg-6.col-xl-6 .controlIntegracao1 {
+  background: url('../images/pag_empresa/Grupo4482.webp') no-repeat center;
+  background-size: cover;
+}
+
+section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h1.font-weight-bold {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 .col-sm-12.col-md-12.col-lg-12.col-xl-12 .col-sm-6.col-md-6.col-lg-6.col-xl-6 .controlIntegracao,
+section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 .col-sm-12.col-md-12.col-lg-12.col-xl-12 .col-sm-6.col-md-6.col-lg-6.col-xl-6 .controlIntegracao1 {
+  width: 313px;
+  height: 313px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-8.col-md-8.col-lg-8.col-xl-8 button.carousel-control-next {
+  right: 5%;
+}
+
+section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-8.col-md-8.col-lg-8.col-xl-8 button.carousel-control-prev {
+  left: 5%;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+  main .container-fluid.empresa {
+    background: url('../images/pag_empresa/mobileGrupo4478.webp') no-repeat center !important;
+    background-size: cover !important;
+  }
+
+  section.one {
+    background: url('../images/pag_empresa/Grupo4479.svg') no-repeat right top !important;
+  }
+
+  section.one .container {
+    padding: 0 !important;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack {
+    background-position: center !important;
+    bottom: 50px;
+    padding-left: 7% !important;
+  }
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1 {
+    font-size: 50px !important;
+  }
+
+  section.one {
+    padding-bottom: 25% !important;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+    width: 100%;
+    left: 0;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  section.one .container .row.w-100 .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0.d-flex {
+    flex-direction: column;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    right: -4%;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+    left: 0;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.pos {
+    width: 90%;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-xl-12 #sociosFundadores button.carousel-control-prev,
+  section.one .container .row .col-sm-12.col-md-12.col-xl-12 #sociosFundadores button.carousel-control-next {
+    top: 108%;
+    height: 30px;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-xl-12 #sociosFundadores button.carousel-control-next {
+    left: 15%;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-xl-12 #sociosFundadores button.carousel-control-prev {
+    left: 0%;
+  }
+
+  section.two {
+    background: url('../images/pag_empresa/mobileGrupo4480.svg') no-repeat;
+    height: 295px;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+    align-items: center !important;
+    top: 10px;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    text-align: center;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h6.mb-3 {
+    padding-bottom: 5%;
+  }
+
+  section.three {
+    background: #FFF;
+    height: auto;
+    padding: 15% 0 10%;
+  }
+
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h1.font-weight-bold,
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6.pl-3.w-58.mb-5.mt-4 {
+    padding: 0 !important;
+    text-align: center;
+    width: 100% !important;
+  }
+
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h1.font-weight-bold {
+    font-size: 47px;
+  }
+
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6.pl-3.w-58.mb-5.mt-4 {
+    font-size: 15px;
+  }
+
+  section.three .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-center.p-0 {
+    flex-direction: column;
+  }
+
+  section.three .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-center.p-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+    align-items: center !important;
+    margin-bottom: 10%;
+  }
+
+  section.three .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-center.p-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    text-align: center;
+  }
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2600px) {
+
+  main .container-fluid.empresa {
+    background: url('../images/pag_empresa/Grupo4478@2x.webp') no-repeat center !important;
+    background-size: cover !important;
+    height: 100vh;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack {
+    background: url('../images/pag_empresa/Grupo899.svg') no-repeat top !important;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+    max-width: 526px;
+    padding-left: 10%;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12 .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.pos {
+    width: 85% !important;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    right: -1%;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+    left: -3%;
+  }
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1,
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-center.p-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    width: 75% !important;
+  }
+
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6.pl-3.w-58.mb-5.mt-4 {
+    width: 45% !important;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1 {
+    width: 64%;
+  }
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 p.h2 {
+    width: 50%;
+  }
+
+  section.one .container {
+    margin: 0 !important;
+    max-width: 100%;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack .col-sm-6.col-md-6.col-lg-6.col-xl-6 {
+    left: -22%;
+    max-width: 1024px;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.redBack {
+    background-position: left !important;
+    justify-content: center;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 {
+    max-width: 55%;
+    margin-left: 6%;
+    margin-bottom: 3%;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+    left: 8%;
+    max-width: 90%;
+  }
+
+  section.three .container .row,
+  section.two .container .row {
+    justify-content: center !important;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+    padding: 0;
+  }
+
+  section.two .container .row .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    font-size: 16px;
+  }
+
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 {
+    align-items: center !important;
+  }
+
+  section.three .container .row .col-sm-8.col-md-8.col-lg-8.col-xl-8 p.h6.pl-3.w-58.mb-5.mt-4 {
+    font-size: 17px;
+  }
+
+  section.three .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-center.p-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center {
+    max-width: 100% !important;
+  }
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 415px) {
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1 {
+    font-size: 43px !important;
+  }
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 p.h2 {
+    font-size: 47px;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.pos {
+    font-size: 15px;
+  }
+
+  section.three .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-center.p-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    font-size: 16px;
+  }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 h1 {
+    font-size: 36px !important;
+  }
+
+  main .container-fluid.empresa .container .row .col-sm-10.col-md-10.col-lg-10.col-xl-10 p.h2 {
+    font-size: 40px;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h2.font-weight-bold.w-60.mb-5 {
+    width: 100% !important;
+  }
+
+  section.one .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.p-0 .col-sm-4.col-md-4.col-lg-4.col-xl-4 p.h6.pos {
+    font-size: 13px;
+  }
+
+  section.three .container .row .col-sm-12.col-md-12.col-lg-12.col-xl-12.d-flex.align-items-center.justify-content-center.p-0 .col-sm-6.col-md-6.col-lg-6.col-xl-6.d-flex.flex-column.align-items-start.justify-content-center p.h6 {
+    font-size: 15px;
+  }
+}

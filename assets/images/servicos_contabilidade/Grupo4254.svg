@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.2" height="51.824" viewBox="0 0 51.2 51.824">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_799" data-name="Retângulo 799" width="51.2" height="51.824" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_4254" data-name="Grupo 4254" transform="translate(0 0)">
+    <g id="Grupo_4253" data-name="Grupo 4253" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Caminho_4127" data-name="Caminho 4127" d="M12.461,37.057H.715A.716.716,0,0,1,0,36.342V10.395A.716.716,0,0,1,.715,9.68H12.461a.716.716,0,0,1,.717.715V36.342a.716.716,0,0,1-.717.715M1.432,35.625H11.746V11.112H1.432Z" transform="translate(0 14.767)" fill="#272525"/>
+      <path id="Caminho_4128" data-name="Caminho 4128" d="M20.079,44.422H8.333a.716.716,0,0,1-.717-.715V5.569a.717.717,0,0,1,.717-.717H20.079a.716.716,0,0,1,.715.717V43.707a.716.716,0,0,1-.715.715M9.048,42.99H19.362V6.284H9.048Z" transform="translate(11.618 7.401)" fill="#272525"/>
+      <path id="Caminho_4129" data-name="Caminho 4129" d="M27.518,51.824H15.772a.716.716,0,0,1-.717-.715V.715A.716.716,0,0,1,15.772,0H27.518a.716.716,0,0,1,.715.715V51.109a.716.716,0,0,1-.715.715M16.487,50.392H26.8V1.429H16.487Z" transform="translate(22.967 -0.001)" fill="#272525"/>
+    </g>
+  </g>
+</svg>

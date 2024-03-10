@@ -1,0 +1,7 @@
+<svg id="Componente_23_1" data-name="Componente 23 – 1" xmlns="http://www.w3.org/2000/svg" width="214" height="46" viewBox="0 0 214 46">
+  <g id="Caminho_4123" data-name="Caminho 4123" fill="#e72e3e">
+    <path d="M 213.5 45.5 L 7 45.5 C 3.415894746780396 45.5 0.5 42.5841064453125 0.5 39 L 0.5 7 C 0.5 3.415894746780396 3.415894746780396 0.5 7 0.5 L 213.5 0.5 L 213.5 45.5 Z" stroke="none"/>
+    <path d="M 7 1 C 3.69158935546875 1 1 3.691581726074219 1 7 L 1 39 C 1 42.30841827392578 3.69158935546875 45 7 45 L 213 45 L 213 1 L 7 1 M 7 0 L 214 0 L 214 46 L 7 46 C 3.134002685546875 46 0 42.86600112915039 0 39 L 0 7 C 0 3.133998870849609 3.134002685546875 0 7 0 Z" stroke="none" fill="#eee"/>
+  </g>
+  <text id="_Cliente" data-name=" Cliente" transform="translate(0 10)" fill="#fff" font-size="17" font-family="TitilliumWeb-Regular, Titillium Web"><tspan x="-26" y="19" xml:space="preserve"> Cliente</tspan></text>
+</svg>

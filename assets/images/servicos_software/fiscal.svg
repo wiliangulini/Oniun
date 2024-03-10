@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_811" data-name="Retângulo 811" width="23" height="22.72" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_4585" data-name="Grupo 4585" transform="translate(-1.5 -161)">
+    <g id="Grupo_4584" data-name="Grupo 4584" transform="translate(-4053.518 -4433)">
+      <g id="Grupo_4582" data-name="Grupo 4582" transform="translate(1536.018 5885)">
+        <g id="Grupo_526" data-name="Grupo 526" transform="translate(2519 -1291)">
+          <rect id="Retângulo_151" data-name="Retângulo 151" width="63" height="63" rx="15" fill="#e53537"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_4370" data-name="Grupo 4370" transform="translate(21.5 181.14)">
+      <g id="Grupo_4369" data-name="Grupo 4369" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Caminho_4252" data-name="Caminho 4252" d="M22.687,22.72H.313A.313.313,0,0,1,0,22.407V.313A.313.313,0,0,1,.313,0H22.687A.313.313,0,0,1,23,.313V22.407a.313.313,0,0,1-.313.313M.627,22.093H22.374V.626H.627Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Caminho_4253" data-name="Caminho 4253" d="M11.239,5.338H2.785a.314.314,0,0,1,0-.627h8.454a.314.314,0,0,1,0,.627" transform="translate(0.262 0.499)" fill="#fff"/>
+        <path id="Caminho_4254" data-name="Caminho 4254" d="M19.4,7.889H2.784a.314.314,0,0,1,0-.627H19.4a.314.314,0,0,1,0,.627" transform="translate(0.262 0.769)" fill="#fff"/>
+        <path id="Caminho_4255" data-name="Caminho 4255" d="M11.239,10.439H2.785a.314.314,0,0,1,0-.627h8.454a.314.314,0,0,1,0,.627" transform="translate(0.262 1.039)" fill="#fff"/>
+        <path id="Caminho_4256" data-name="Caminho 4256" d="M11.239,15.541H2.785a.314.314,0,0,1,0-.627h8.454a.314.314,0,0,1,0,.627" transform="translate(0.262 1.58)" fill="#fff"/>
+        <path id="Caminho_4257" data-name="Caminho 4257" d="M19.4,12.99H2.784a.314.314,0,0,1,0-.627H19.4a.314.314,0,0,1,0,.627" transform="translate(0.262 1.309)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
