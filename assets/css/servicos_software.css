@@ -212,7 +212,7 @@ section.appMobile {
 section.appMobile .celular {
   object-fit: contain;
   position: absolute;
-  top: -28.75%;
+  top: -29.25%;
   right: -4%;
   bottom: 0;
 }

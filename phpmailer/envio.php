@@ -42,12 +42,6 @@ if ($nome && $usuario && $email) {
     $mail->Subject = 'Mensagem via Site - Oniun';
 
 
-    // $usuario = $_POST['usuario'];
-    // $nome = $_POST['nome'];
-    // $email = $_POST['email'];
-    // $tel = $_POST['tel'];
-    // $msg = $_POST['mensagem'];
-
     $body = "Mensagem enviada através do site, segue informações abaixo:<br>
       Usuario: $usuario <br>
       Nome: $nome <br>

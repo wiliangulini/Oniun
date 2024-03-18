@@ -5,7 +5,7 @@
         <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 d-flex justify-content-center align-items-center h-100 p-0">
           <nav class="navbar navbar-expand-lg navbar-light w-100 d-flex justify-content-between align-items-center">
             <a class="navbar-brand" href="index.php">
-              <img src="/assets/images/home/oniunIcon.svg" alt="Oniun ícone" />
+              <img src="./assets/images/home/oniunIcon.svg" alt="Oniun ícone" />
             </a>
             <button class="navbar-toggler" onclick="background()" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -35,7 +35,7 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link whats" href="https://api.whatsapp.com/send?phone=5546991388001&text=Olá!+Gostaria+de+conversar+com+alguém+da+equipe+Oniun.">
-                    <img src="/assets/images/home/whatsIcon.svg" class="whatsAppIcon" alt="whatsApp ícone" />
+                    <img src="./assets/images/home/whatsIcon.svg" class="whatsAppIcon" alt="whatsApp ícone" />
                   </a>
                 </li>
               </ul>
